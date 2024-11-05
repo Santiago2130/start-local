@@ -1,4 +1,4 @@
-name: Installer test
+name: start
 
 on: [push, pull_request]
 
